@@ -123,7 +123,7 @@ We are actively using this methodology in production at VisionSF. This documenta
 
 ## Who's Behind This
 
-**[VisionSF](https://visions.com)** — An AI-native software development studio based in Silicon Valley.
+**[VisionSF](https://visionsf.com)** — An AI-native software development studio based in Silicon Valley.
 
 We don't just use AI to assist development. AI *is* our development—supervised, validated, and continuously improving.
 
